@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451064993988",
+    "project_id": "ecommerce-app-abda5",
+    "storage_bucket": "ecommerce-app-abda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451064993988:android:006a3d7ac12ec83a965191",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmcXz9Gj58TwLdEMtxvJ33SktxLdRQrvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451064993988:android:d12f614fc950b567965191",
+        "android_client_info": {
+          "package_name": "com.example.glocery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmcXz9Gj58TwLdEMtxvJ33SktxLdRQrvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
